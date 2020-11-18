@@ -1,4 +1,4 @@
-package com.company.task9_10;
+package ru.mirea.laba9-10;
 
 
 import java.util.ArrayList;
