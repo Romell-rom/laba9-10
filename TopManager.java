@@ -1,4 +1,4 @@
-package com.company.task9_10;
+package ru.mirea.laba9-10;
 
 public class TopManager extends Empoley implements EmployeePosition {
     private int Income;
